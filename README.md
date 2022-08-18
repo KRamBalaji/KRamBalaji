@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KRamBalaji
 - 👀 I’m interested in Development and cutting edge technologies
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on LinkedIn
+- 💞️ I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/krambalaji/)
 - 📫 How to reach me : rambalajikoppula@gmail.com
 
 <!---
